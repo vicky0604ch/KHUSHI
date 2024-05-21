@@ -3,7 +3,7 @@
 🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
 <!--
-**THE-RADHIKA/THE -RADHIKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**THE-RADHIKA/THE-RADHIKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -43,7 +43,7 @@
     ─「 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵 𝑯𝑬𝑹𝑶𝑲𝑼 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rajputshivsingh65/DNS-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vicky0604hello/RADHIKA-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵 𝑳𝑶𝑪𝑨𝑳 𝑯𝑶𝑺𝑻/𝑽𝑷𝑺 」─
@@ -61,7 +61,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/MISHSINGH19/DNS-MUSIC && cd DNS-MUSIC`
+`git clone https://github.com/MISHSINGH19/RADHIKA && cd RADHIKA-MUSIC`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
