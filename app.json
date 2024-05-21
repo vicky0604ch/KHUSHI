@@ -1,7 +1,7 @@
 {
-    "name": "𖣔sʜɪᴠ ᴍᴜsɪᴄ⛦⃕‌🇮🇳",
+    "name": "𖣔ʀᴀᴅʜɪᴋᴀ ᴍᴜsɪᴄ⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/9abf88d090e76e0512072.png",
+    "logo": "https://telegra.ph/file/208ae97616c75ea510521.png",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃, 𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐌𝐎𝐑𝐄 𝐏𝐄𝐑𝐒𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐆𝐈𝐕𝐄𝐈𝐍𝐆 𝐒𝐏𝐀𝐂𝐄 𝐀𝐅𝐓𝐄𝐑 𝐎𝐍𝐄 𝐈𝐃.",
-        "value": "6955568347",
+        "value": "5485355531",
         "required": true
       },
       "STRING_SESSION": {
@@ -64,7 +64,7 @@
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://telegra.ph/file/d0e6fa56e28ea19eef13f.png",
+        "value": "https://telegra.ph/file/667a0c569e8c3809e722a.png",
         "required": false
       },
       "LOGGER_ID": {
