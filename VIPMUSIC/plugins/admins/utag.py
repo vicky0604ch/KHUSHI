@@ -12,14 +12,14 @@ SPAM_CHATS = {}
 
 
 @app.on_message(
-    filters.command(["utag", "uall"], prefixes=["/", "@", ".", "#"]) & admin_filter
+    filters.command(["sutag", "suall"], prefixes=["/", "@", ".", "#"]) & admin_filter
 )
 async def tag_all_users(_, message):
     global SPAM_CHATS
     chat_id = message.chat.id
     if len(message.text.split()) == 1:
         await message.reply_text(
-            "** ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴛᴀɢ ᴀʟʟ, ʟɪᴋᴇ »** `@utag Hi Friends`"
+            "** ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴛᴀɢ ᴀʟʟ, ʟɪᴋᴇ »** `@sutag Hi Friends`"
         )
         return
 
