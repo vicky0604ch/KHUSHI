@@ -88,7 +88,7 @@ import asyncio
 import time
 
 
-@app.on_message(filters.command("gadd") & filters.user(int(OWNERS)))
+@app.on_message(filters.command("gadd") & SUDOERS)
 async def add_all(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
